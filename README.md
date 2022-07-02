@@ -3,7 +3,7 @@
 
 👀 I’m interested in AD & ICS Security
 
-🌱 I’m currently studying for the OSCP
+🌱 Currently studying for the OSCP
 
 🥅 2022 Goals: Pass the OSCP & get a Pentesting role
 
