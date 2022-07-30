@@ -1,7 +1,7 @@
 <h2 align="center">👋</h2> 
 <h1 align="left">Hi, I’m Cyb3r C3lt</h1>
 
-👀 I’m interested in AD & ICS Security
+👀 I’m interested in AD & ICS Cyber Security
 
 🌱 Currently studying for the OSCP
 
