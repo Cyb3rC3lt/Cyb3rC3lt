@@ -9,6 +9,5 @@
 
 📫 How to reach me:
 <p align="center">
-<a href="https://www.reddit.com/user/Cyb3rC3lt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="Cyb3rC3lt" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/919975320231247894" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Cyb3rC3lt" height="30" width="40" /></a>
 </p>
