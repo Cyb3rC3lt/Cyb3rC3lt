@@ -3,9 +3,9 @@
 
 👀 I’m interested in AD & ICS Cyber Security
 
-🌱 Currently studying for the OSCP
+🌱 Just passed the OSCP
 
-🥅 2022 Goals: Pass the OSCP & get a Pentesting role
+🥅 2022 Goals: Pass the CRTP & get a Pentesting role
 
 📫 How to reach me:
 <p align="center">
