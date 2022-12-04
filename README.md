@@ -1,11 +1,11 @@
 <h2 align="center">👋</h2> 
 <h1 align="left">Hi, I’m Cyber Celt</h1>
 
-👀 I’m interested in Network & ICS Cyber Security
+👀 I’m interested primarily in a career in Red Teaming
 
 🌱 Just passed the OSCP, CRTP and got a pen testing role
 
-🥅 2022 Goals Remaining: Pass the CRTO
+🥅 Goals Remaining: Pass the CRTO and OSEP
 
 📫 How to reach me:
 <p align="center">
