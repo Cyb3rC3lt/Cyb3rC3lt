@@ -1,5 +1,4 @@
-<h2 align="center">👋</h2> 
-<h1 align="left">Hi, I’m Cyber Celt</h1>
+ <h1 align="left">Hi, I’m Cyber Celt 👋</h1>
 
 👀 I’m interested primarily in a career in Penetration Testing or Red Teaming
 
