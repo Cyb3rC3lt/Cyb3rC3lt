@@ -1,6 +1,6 @@
  <h1 align="left">Hi, I’m Cyber Celt 👋</h1>
 
-👀 I’m interested primarily in a career in Penetration Testing or Red Teaming
+👀 I’m currently working as a Penetration Tester
 
 🌱 Just passed the OSCP, CRTP and got a pen testing role
 
