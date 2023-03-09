@@ -2,7 +2,7 @@
 
 👀 I’m currently working as a Penetration Tester
 
-🌱 Just passed the OSCP and CRTP
+🌱 Passed the OSCP and CRTP
 
 🥅 Goals Remaining: Pass the CRTO and either OSEP or CRTL 
 
