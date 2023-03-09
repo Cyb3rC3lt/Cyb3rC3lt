@@ -1,6 +1,6 @@
  <h1 align="left">Hi, I’m Cyber Celt 👋</h1>
 
-👀 I’m currently working as a Penetration Tester
+👀 Irish, based in the UK. Currently working as a Penetration Tester
 
 🌱 Passed the OSCP and CRTP
 
