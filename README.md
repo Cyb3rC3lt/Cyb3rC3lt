@@ -1,4 +1,4 @@
-**My CrackMapExec modules which are now live on the official repo**
+**My 3 CrackMapExec modules which are now live on the official repo**
 
 <img src="https://github.com/Cyb3rC3lt/CrackMapExec-Modules/blob/main/images/DCDA.jpg" width="600"/>
 
